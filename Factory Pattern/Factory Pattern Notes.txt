@@ -1,0 +1,10 @@
+First create an interface 
+then create concrete classes that implement that interface
+
+each concrete class will have his own implemented overloaded versions
+of methods
+
+create a factory class that contains a methods that takes an argurment
+parameter and return the a certain concrete class of interface
+
+call the interface returned methods it will be unique 
